@@ -1,0 +1,153 @@
+/*
+* @Author: Administrator
+* @Date:   2017-04-11 15:53:21
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-04-11 22:37:31
+*/
+.container-fiuld{
+	width: 100%;
+}
+@media screen and (min-width:1170px){
+	.ban{
+		width: 100%;
+	}
+	.center .con{
+		width: 1170px;
+	}
+	.center-first .con1{
+		width: 1170px;
+	}
+	.center-first .con1 p{
+		width: 1170px;
+	}
+	.center-first .con1>div{
+		width: 1170px;
+	}
+	.center-first .con1>div{
+		width: 1170px;
+	}
+	footer .con{
+		width: 1170px;
+		margin: 0 auto;
+	}
+}
+@media screen and (max-width:1170px){
+	.ban{
+		width: 100%;
+	}
+	.center .con{
+		width: 970px;
+	}
+	.center-first .con1{
+		width: 970px;
+	}
+	.center .con>div{
+		width: 50%;
+	}
+	.center .con h1{
+		width: 50%;
+	}
+	.center .con>p{
+		width: 50%;
+	}
+	.center-first .con1>p{
+		width: 970px;
+	}
+	.center-first .con1>div{
+		width: 970px;
+	}
+	.center-first .con1>div{
+		width: 970px;
+	}
+	footer .con{
+		width: 970px;
+	}
+}
+@media screen and (max-width:970px){
+	.ban{
+		width: 100%;
+	}
+	.center .con{
+		width: 970px;
+	}
+	.center-first .con1{
+		width: 970px;
+	}
+	.center .con>div{
+		width: 50%;
+	}
+	.center .con h1{
+		width: 50%;
+	}
+	.center .con>p{
+		width: 50%;
+	}
+	.center-first .con1>p{
+		width: 970px;
+	}
+	.center-first .con1>div{
+		width: 970px;
+	}
+	.center-first .con1>div{
+		width: 970px;
+	}
+	footer .con{
+		width: 970px;
+	}
+
+
+
+
+
+
+
+
+
+}
+@media screen and (max-width:970px){
+	.ban{
+		width: 100%;
+	}
+	.center .con{
+		width: 100%;
+		padding: 0  45px;
+		box-sizing: border-box;
+	}
+	.center-first .con1{
+		width: 100%;
+		padding: 0  45px;
+		box-sizing: border-box;
+	}
+	.center .con>div{
+		width: 100%;
+		padding: 0  0px;
+		box-sizing: border-box;
+	}
+	.center .con h1{
+		width: 100%;
+		padding: 0  0px;
+		box-sizing: border-box;
+	}
+	.center .con>p{
+		width: 100%;
+		padding: 0  0px;
+		box-sizing: border-box;
+	}
+	.center-first .con1>p{
+		width: 100%;
+	}
+	.center-first .con1>div>div{
+		width: 50%;
+	}
+	.center-first .con1>div>div>img{
+		margin-left: 30px;
+	}
+	/* footer .con{
+
+	} */
+
+
+
+
+}		
+ 
